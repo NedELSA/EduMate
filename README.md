@@ -22,7 +22,7 @@ EduMate leverages cutting-edge AI technologies, including Google Gemini for gene
   - Tavily API Key (replace the placeholder in the code with your actual API key)
 - Installation
   - Clone the repository:
-`git clone https://github.com/your-repo/edumate.git`
+`git clone https://github.com/the-repo/edumate.git`
 
   - Install the required Python packages:
 `pip install -r requirements.txt`
